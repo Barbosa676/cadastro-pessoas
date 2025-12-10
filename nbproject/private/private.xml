@@ -3,6 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+<<<<<<< HEAD
+=======
+            <file>file:/C:/Users/gabriel/OneDrive/Documentos/NetBeansProjects/cadastro%20pessoas/src/App.java</file>
+>>>>>>> f89e9fe7754df7499a0b52b94a2911619f5af358
             <file>file:/C:/Users/gabriel/OneDrive/Documentos/NetBeansProjects/cadastro%20pessoas/src/model/Pessoa.java</file>
             <file>file:/C:/Users/gabriel/OneDrive/Documentos/NetBeansProjects/cadastro%20pessoas/src/dao/PessoaDAO.java</file>
             <file>file:/C:/Users/gabriel/OneDrive/Documentos/NetBeansProjects/cadastro%20pessoas/src/dao/Conexao.java</file>
